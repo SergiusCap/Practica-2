@@ -90,7 +90,5 @@ public class Jugador {
     public String toString() {
         return "Jugador{" + "id=" + id + ", equipoId=" + equipoId + ", rolId=" + rolId + ", nick=" + nick + ", nombre=" + nombre + ", edad=" + edad + '}';
     }
-    
-    
-    
+ 
 }

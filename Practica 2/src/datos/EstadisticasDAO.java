@@ -8,6 +8,6 @@ package datos;
  *
  * @author 2DAM
  */
-public class EquipoDAO {
+public class EstadisticasDAO {
     
 }
